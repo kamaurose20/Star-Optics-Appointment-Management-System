@@ -14,7 +14,7 @@ The Appointment Management System is a web application designed to help users sc
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/BaldaniyaParth/Appointment-Management-System.git
-   cd appointment-management-system
-    ```
+
+   git clone https://github.com/kamaurose20/Star-Optics-Appointment-Management-System
+   
+   
